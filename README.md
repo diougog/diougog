@@ -13,8 +13,6 @@ Me chamo Diogo Gomes de Souza e sou estudante de Análise e Desenvolvimento de S
 ![CSS3](https://img.shields.io/badge/CSS3-5E9F7F?style=for-the-badge&logo=css3&logoColor=FDCB82)
 ![JavaScript](https://img.shields.io/badge/JavaScript-5E9F7F?style=for-the-badge&logo=javascript&logoColor=FDCB82)
 ![Java](https://img.shields.io/badge/java-5E9F7F?style=for-the-badge&logo=openjdk&logoColor=FDCB82)
-![C](https://img.shields.io/badge/C-5E9F7F?style=for-the-badge&logo=c&logoColor=FDCB82)
-
 
 ## 💻 Github Stats
 
