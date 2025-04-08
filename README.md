@@ -4,7 +4,7 @@ Me chamo Diogo Gomes de Souza e sou estudante de Análise e Desenvolvimento de S
 
 
 ## 🗨️ Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5E9F7F?style=for-the-badge&logo=linkedin&logoColor=FDCB82)](https://www.linkedin.com/in/diogo-gomes-de-souza-144325187)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5E9F7F?style=for-the-badge&logo=linkedin&logoColor=FDCB82)](https://www.linkedin.com/in/diogo-gomes-de-souza)
 [![Gmail](https://img.shields.io/badge/Gmail-5E9F7F?style=for-the-badge&logo=gmail&logoColor=FDCB82)](mailto:imdiogogs@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-5E9F7F?style=for-the-badge&logo=github&logoColor=FDCB82)](https://github.com/diougog)
 
